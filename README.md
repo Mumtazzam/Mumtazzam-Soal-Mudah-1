@@ -10,3 +10,4 @@ Alur kerja program :
 8. Jika volume lebih dari 100 cm3, maka fee akan bertambah Rp. 50000
 9. Selanjutnya, program menampilkan hasil dari program yakni "Total biaya pengiriman : Rp. hasil"
 <img width="794" height="726" alt="Screenshot 2025-11-04 153531" src="https://github.com/user-attachments/assets/ac3b64fe-baf1-4313-babb-e718625da14b" />
+<img width="441" height="231" alt="Hasil Program Soal Mudah No 1" src="https://github.com/user-attachments/assets/593e8c06-4582-41dd-b22a-4a4ed57c52cb" />
